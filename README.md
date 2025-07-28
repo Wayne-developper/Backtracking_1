@@ -1,3 +1,5 @@
+![License](https://img.shields.io/github/license/Wayne-developper/Backtracking_1)
+
 # Leetcode 78 - Subsets
 This reportory contains two python solution to the problem  [Leetcode 78 - Subsets](https://leetcode.com/problems/subsets/).
 
